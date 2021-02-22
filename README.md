@@ -1,6 +1,8 @@
 # Fungal Genomics 
 
 
+- #### [Morphological and molecular characterization of Fusarium tricinctum causing postharvest fruit rot of pumpkin in Korea](https://link.springer.com/article/10.1007/s10327-018-0803-6) |  For Mrs Chin Paper
+
 
 - #### [Repetitive Elements Contribute to the Diversity and Evolution of Centromeres in the Fungal Genus Verticillium](https://mbio.asm.org/content/11/5/e01714-20)
 
