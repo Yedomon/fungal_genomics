@@ -1,6 +1,9 @@
 # Fungal Genomics 
 
 
+
+- #### [Proximity Ligation Technology](http://phasegenomics.com/technology/proximity-ligation/)
+
 - #### [Unravel the mysteries of the fungal world](https://phasegenomics.com/applications/metagenomics-microbiology/fungal-genomics/?utm_campaign=Fungus%20February%202021&utm_medium=email&_hsmi=113150619&_hsenc=p2ANqtz-_SZRFVKn-8UsWiMOFIiRSt3ucnPZZvW39SxFCqLZ2QdDeF65Vu7CSQMk1PlV3vy4oHX3oJdSFbXFqvzwjI0obu2rJVdQ&utm_content=113150619&utm_source=hs_email)
 
 
