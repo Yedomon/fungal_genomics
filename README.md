@@ -1,6 +1,9 @@
 # Fungal Genomics 
 
 
+- #### [Unravel the mysteries of the fungal world](https://phasegenomics.com/applications/metagenomics-microbiology/fungal-genomics/?utm_campaign=Fungus%20February%202021&utm_medium=email&_hsmi=113150619&_hsenc=p2ANqtz-_SZRFVKn-8UsWiMOFIiRSt3ucnPZZvW39SxFCqLZ2QdDeF65Vu7CSQMk1PlV3vy4oHX3oJdSFbXFqvzwjI0obu2rJVdQ&utm_content=113150619&utm_source=hs_email)
+
+
 - #### [Morphological and molecular characterization of Fusarium tricinctum causing postharvest fruit rot of pumpkin in Korea](https://link.springer.com/article/10.1007/s10327-018-0803-6) |  For Mrs Chin Paper
 
 
