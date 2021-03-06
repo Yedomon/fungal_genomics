@@ -1,6 +1,6 @@
 # Fungal Genomics 
 
-
+- #### [Genome sequence resource of Phomopsis longicolla strain YC2-1, a fungal pathogen causing Phomopsis stem blight in soybean](https://apsjournals.apsnet.org/doi/10.1094/MPMI-12-20-0340-A)
 
 - #### [Proximity Ligation Technology](http://phasegenomics.com/technology/proximity-ligation/)
 
