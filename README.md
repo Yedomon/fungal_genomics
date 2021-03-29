@@ -1,5 +1,9 @@
 # Fungal Genomics 
 
+- #### [Development of a PCR-based assay for rapid and reliable identification of pathogenic Fusaria](https://academic.oup.com/femsle/article/218/2/329/531537)
+
+
+
 - #### [Genome sequence of Monilinia vaccinii-corymbosi sheds light on mummy berry disease infection of blueberry and mating type](https://academic.oup.com/g3journal/article-abstract/11/2/jkaa052/6062400)
 
 - #### [Genome sequence resource of Phomopsis longicolla strain YC2-1, a fungal pathogen causing Phomopsis stem blight in soybean](https://apsjournals.apsnet.org/doi/10.1094/MPMI-12-20-0340-A)
