@@ -1,5 +1,8 @@
 # Fungal Genomics 
 
+- #### [Genome Resource of Podosphaera xanthii, the Host-Specific Fungal Pathogen That Causes Cucurbit Powdery Mildew](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-11-20-0307-A)
+
+
 - #### [Development of a PCR-based assay for rapid and reliable identification of pathogenic Fusaria](https://academic.oup.com/femsle/article/218/2/329/531537)
 
 
