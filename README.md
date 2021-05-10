@@ -1,5 +1,19 @@
 # Fungal Genomics 
 
+
+- #### [A genome-scale phylogeny of the kingdom Fungi](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00139-1#secsectitle0105)
+
+
+![img](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/b6f9af85-a4d2-49a8-b687-6ce278add5d4/gr1.jpg)
+
+
+[code availability](https://figshare.com/articles/dataset/Scripts_and_analyses_used_for_the_fungal_phylogeny/12751736)
+
+
+side codes [1](https://github.com/JLSteenwyk/Phylogenetic_scripts/blob/master/LB_score.py) , [2](https://github.com/evolbioinfo/gotree), [3](https://github.com/smirarab/1kp/tree/master/scripts/hypo-test)
+
+
+
 - #### [Genome Resource of Podosphaera xanthii, the Host-Specific Fungal Pathogen That Causes Cucurbit Powdery Mildew](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-11-20-0307-A)
 
 
