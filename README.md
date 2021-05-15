@@ -1,6 +1,13 @@
 # Fungal Genomics 
 
 
+
+- #### Love the paper.. way they grab fungal related genes as well as plant-fungal interaction genes
+
+
+[The Whole Genome Sequence of Fusarium redolens strain YP04, a Pathogen that Causes Root Rot of American Ginseng](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-03-21-0084-A)
+
+
 - #### [A genome-scale phylogeny of the kingdom Fungi](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00139-1#secsectitle0105)
 
 
