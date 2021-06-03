@@ -1,5 +1,155 @@
 # Fungal Genomics 
 
+Le script utilise pour le papier de Jon Hwa Jin
+
+
+
+
+## Go to the working directory
+
+```bash
+
+cd /NABIC/HOME/yedomon1/fusarium_phylogenetics
+
+```
+
+## Step 1 Just keep a small name
+
+
+```bash
+
+vi rename.sh
+
+```
+
+```bash
+
+#/bin/bash
+
+set -e
+
+for seq in *.fasta
+
+do
+
+base=$(basename $seq .fasta)
+
+cat ${base}.fasta | awk -F' ' '{print $1}' > ${base}_renamed.fasta
+
+
+done
+
+## Bye!
+
+
+```
+
+
+Run
+
+```bash
+
+$ bash rename.sh
+
+```
+
+
+
+## Step 2: Multiple sequence alignment
+
+
+## We need to merge the sequence first.
+
+```bash
+
+cat *renamed.fasta > ITS.fasta
+
+```
+
+
+## Write the script
+
+
+```bash
+
+vi run_phylo.sh
+
+```
+
+The content
+
+
+
+```bash
+
+
+#/bin/bash
+
+set -e
+
+### Multiple sequence alignment
+
+source activate mafft_env
+
+mafft --maxiterate 1000 --localpair --thread 60 ITS > ITS.mafft
+
+source deactivate mafft_env
+
+
+### Alignment trimming
+
+source activate trimal_env
+
+trimal -automated1 -in ITS.mafft -out ITS.mafft.trimal
+
+source deactivate trimal_env
+
+### Tree construction with automatic model selection
+
+source activate iqtree_env
+
+iqtree -s ITS.mafft.trimal -nt AUTO -alrt 1000 -bb 1000
+
+source deactivate iqtree_env
+
+
+## Bye!
+
+```
+
+
+
+## Run
+
+```bash
+
+bash run_phylo.sh &> log.phylo &
+
+```
+
+
+
+## See the tree with Fig tree sofware
+
+```bash
+
+cd /NABIC/HOME/yedomon1/genomeassemblyfungiMR004/13_Orthologs_identification_with_Blast/genome_assemblies_from_NCBI/genomes_assemblies/01/gbfiles/good/goodfasta/FigTree_v1.4.4/lib
+
+```
+
+
+
+## Run Figtree
+
+
+
+```bash
+
+java -jar figtree.jar
+
+```
+
+
 
 
 - #### Love the paper.. way they grab fungal related genes as well as plant-fungal interaction genes
