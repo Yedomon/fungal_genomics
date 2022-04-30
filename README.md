@@ -1,5 +1,14 @@
 # Fungal Genomics 
 
+
+[A chromosome-scale genome assembly of the tomato pathogen Cladosporium fulvum reveals a compartmentalized genome architecture and the presence of a dispensable chromosome](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000819)
+
+![img](https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000819-f1.gif)
+
+
+
+
+
 Le script utilise pour le papier de Jon Hwa Jin
 
 
