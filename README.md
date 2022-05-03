@@ -1,6 +1,13 @@
 # Fungal Genomics 
 
 
+
+[Lifestyle Transitions in Fusarioid Fungi are Frequent and Lack Clear Genomic Signatures](https://academic.oup.com/mbe/article/39/4/msac085/6575681)
+
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/39/4/10.1093_molbev_msac085/1/m_msac085f2.jpeg?Expires=1654420537&Signature=GaZVZUb9eYqusadLxLSHkY4G4XMdI-JBfbzsk5hI6QIQL2Q~jFWRnFB9y7quhZ5IQHy5IECLLMwkaQvxR~UnFZCVAWhWzZMo1dbjRze-FVeUL65C0E94HukoqHLsPS48kCghO6yoo7SXqKKv20YPwZohul5TD0lC6A42jQZBcbbEUuSitHgOd17MPWpKfvy-9QZ6dtkYtZEcst~VJ7MZ~oj5bOyooXfktL270m3e-X87ZLM2PeACVHm1VbJ~O~c2TAJcnE-0VHxNhA9rxo~2HhVV4Iq79uyJaDHK71ynTSx7IQoFj3nh7c31Z48MkXrxWzTQ08W28yGdZnnVDDo0Gw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+
 [A chromosome-scale genome assembly of the tomato pathogen Cladosporium fulvum reveals a compartmentalized genome architecture and the presence of a dispensable chromosome](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000819)
 
 ![img](https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000819-f1.gif)
