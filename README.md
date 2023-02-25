@@ -2,6 +2,19 @@
 
 
 
+An interesting paper:
+
+
+[A thousand-genome panel retraces the global spread and adaptation of a major fungal crop pathogen](https://www.nature.com/articles/s41467-023-36674-y)
+
+Code availability [github](https://github.com/afeurtey/WW_PopGen) [zenodo](https://zenodo.org/record/7572234#.Y_nMTCbMK3A)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36674-y/MediaObjects/41467_2023_36674_Fig2_HTML.png?as=webp)
+
+
+
+
 Idea: Fungi Genome Sequencing at the Era of Long Reads: A Giant Step into Horizontal Gene Transfer and Genome compartimentalization
 
 
